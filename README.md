@@ -1,1 +1,1 @@
-# Processamento_de_Imagens
+# Repositório para trabalhos da disciplina Processamento de Imagens
